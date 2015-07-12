@@ -1,0 +1,5 @@
+Xinari Is Not A Elixir IDE.
+
+Well, ok it kind of is. Xinari is an Emacs minor mode that is aimed
+towards making Emacs into a top-notch Elixir and Phoenix development
+environment.
